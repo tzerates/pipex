@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   atoi.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shenquin <shenquin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: tristan <tristan@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/25 10:45:09 by shenquin          #+#    #+#             */
-/*   Updated: 2021/10/01 14:18:37 by shenquin         ###   ########.fr       */
+/*   Created: 2021/11/22 23:03:16 by tristan           #+#    #+#             */
+/*   Updated: 2021/11/22 23:03:18 by tristan          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ int	ft_atoi(const char *str)
 	int					i;
 	int					neg;
 	unsigned long int	res;
-
+5
 	i = 0;
 	neg = 1;
 	res = 0;

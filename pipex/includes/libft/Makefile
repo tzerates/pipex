@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: shenquin <shenquin@student.42.fr>          +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2020/02/25 10:45:09 by shenquin          #+#    #+#              #
-#    Updated: 2021/10/01 14:17:37 by shenquin         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 SRCS =		atoi.c strlen.c isalpha.c isdigit.c strchr.c putstr_fd.c \
 			isalnum.c isascii.c isprint.c toupper.c tolower.c putnbr_fd.c \
 			strncmp.c strlcpy.c strlcat.c strnstr.c strdup.c putendl_fd.c \
